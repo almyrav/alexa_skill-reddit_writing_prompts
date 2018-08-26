@@ -1,0 +1,15 @@
+{
+  "name": "skill-sample-nodejs-writing-prompt-from-reddit",
+  "version": "1.0.0",
+  "description": "Writing prompt from reddit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.0.7",
+    "request": "^2.88.0"
+  }
+}
